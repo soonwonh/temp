@@ -48,6 +48,7 @@ DiscoHead/
 │   ├── obama.pt
 │   ├── grid.pt
 │   ├── koeba.pt
+├── modules/
 ‥‥
 ```
 - The `--fig_number` argument is used for specifying which figure you want to generate.
