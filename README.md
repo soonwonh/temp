@@ -6,12 +6,12 @@
     <br>
 <p>
 
-<img src='./demo.gif' width=800>
+<img src='./demo2.gif' width=800>
 
     
 ### [Demo](https://deepbrainai-research.github.io/discohead)
 
-[Geumbyeol Hwang](), [Sunwon Hong](), [Seunghyun Lee](), [Sungwoo Park](), and [Gyeongsu Chae]().
+[Geumbyeol Hwang](https://www.youtube.com/watch?v=bluhvpjWZOM), [Sunwon Hong](https://www.youtube.com/watch?v=pSUydWEqKwE), [Seunghyun Lee](https://www.youtube.com/@bankiszon/featured), [Sungwoo Park](https://www.youtube.com/watch?v=6yAmhBamecg), and [Gyeongsu Chae](https://www.youtube.com/watch?v=2f1Ny74_ou0).
 
 ## Requirements
 - CUDA 10.2
