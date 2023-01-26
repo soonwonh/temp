@@ -10,7 +10,7 @@
 - Python 3.7
 
 ## Installation
-You can install environements by 1) or 2).
+You can install environements by 1. or 2.
 
 1. Copy created conda environment
 ```
