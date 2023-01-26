@@ -11,9 +11,9 @@
 
 
 
-
-# [Demo🕵️](https://deepbrainai-research.github.io/discohead) | [KoEBA](https://github.com/deepbrainai-research/koeba)
-
+<p align="center">
+## [Demo](https://deepbrainai-research.github.io/discohead) | [KoEBA](https://github.com/deepbrainai-research/koeba) 
+<p>
 
 
 ## Requirements
@@ -35,9 +35,7 @@ pip install -r requirements.txt
 ## Generating Demo Videos.
 
 - Download the pre-trained checkpoints from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) and put into `weight` folder.
-- Create the `dataset` folder.
-- Download `dataset.zip` from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) 
-- Unzip the `dataset.zip` to `dataset`. 
+- Download `dataset.zip` from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) and unzip into `dataset`. 
 - `DisCoHead` directory should have the following structure.
 ```
 DisCoHead/
@@ -58,14 +56,12 @@ DisCoHead/
 python test.py --fig_number 2
 ```
 
-## Licenses
+## License
 ```plain
-To be updated
+Non-commercial
 ```
     
-## Contributors
-### Geumbyeol Hwang, Sunwon Hong, Seunghyun Lee, Sungwoo Park, and Gyeongsu Chae.
-    
+   
 ## Citation 
 
 ```plain
