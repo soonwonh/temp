@@ -12,14 +12,14 @@
 ## Installation
 - You can install environements by 1) or 2).
 
-* 1) Copy created conda environment
+- 1) Copy created conda environment
 ```
 git clone  https://github.com/deepbrainai-research/discohead
 cd discohead
 conda env create -f discohead.yaml
 conda activate discohead
 ```
-* 2) Install requirements yourself
+- 2) Install requirements yourself
 ```
 git clone  https://github.com/deepbrainai-research/discohead
 cd discohead
