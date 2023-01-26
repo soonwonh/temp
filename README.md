@@ -53,7 +53,7 @@ DiscoHead/
 │   ├── koeba.pt
 ‥‥
 ```
-- The --mode argument is used for specifying which demo you want to generate
+- The `--mode` argument is used for specifying which demo you want to generate
 - To reproduce demo1 of obama dataset, run command :
 ```
 python test.py -m obama_demo1
