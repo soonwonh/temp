@@ -14,10 +14,10 @@
 <p>
 
 
-### [Geumbyeol Hwang](https://www.youtube.com/watch?v=bluhvpjWZOM), [Sunwon Hong](https://www.youtube.com/watch?v=pSUydWEqKwE), [Seunghyun Lee](https://www.youtube.com/@bankiszon/featured), [Sungwoo Park](https://www.youtube.com/watch?v=6yAmhBamecg), and [Gyeongsu Chae](https://www.youtube.com/watch?v=2f1Ny74_ou0).
 
 
-# [Demo🕵️](https://deepbrainai-research.github.io/discohead)
+
+# [Demo🕵️](https://deepbrainai-research.github.io/discohead) | [KoEBA](https://github.com/deepbrainai-research/koeba)
 
 
 
@@ -46,7 +46,7 @@ conda install pytorch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0 cudatoolkit
 pip install -r requirements.txt
 ```
 
-## Generate Demo Results
+## Generating Demo Videos
 
 - Download the pre-trained checkpoints from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) and put into `weight` folder
 - Create the `dataset` folder.
@@ -55,23 +55,19 @@ pip install -r requirements.txt
 ```
 DiscoHead/
 ├── dataset/
-│   ├── obama/
-│   │   ├──demo1/
-│   │   ├──demo2/
-│   ├── grid/
-│   │   ├──demo1/
-│   │   ├──demo2/
-│   ├── koeba/
-│   │   ├──demo1/
-│   │   ├──demo2/
+│   ├── fig2/
+│   ├── fig3/
+│   ├── fig4/
 ├── weight/
 │   ├── obama.pt
 │   ├── grid.pt
 │   ├── koeba.pt
 ‥‥
 ```
-- The `--mode` argument is used for specifying which demo you want to generate
-- To reproduce demo1 of obama dataset, run command :
+- The `--fig_number` argument is used for specifying which figure you want to generate
+- To reproduce fig. 2 of obama dataset, run command :
 ```
-python test.py -m obama_demo1
+python test.py --fig_number 2
 ```
+
+### [Geumbyeol Hwang], [Sunwon Hong], [Seunghyun Lee], [Sungwoo Park], and [Gyeongsu Chae].
