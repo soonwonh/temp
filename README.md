@@ -65,4 +65,4 @@ DiscoHead/
 python test.py --fig_number 2
 ```
 
-### [Geumbyeol Hwang], [Sunwon Hong], [Seunghyun Lee], [Sungwoo Park], and [Gyeongsu Chae].
+### Geumbyeol Hwang, Sunwon Hong, Seunghyun Lee, Sungwoo Park, and Gyeongsu Chae.
