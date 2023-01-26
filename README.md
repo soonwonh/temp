@@ -1,5 +1,11 @@
 # DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions
 
+<p align="center">
+    <br>
+    <img src="https://assets.website-files.com/6392a785ccd80ebf6f060fbe/6392a7df8df82ba809d50347_Logo_Home.svg" width="400"/>
+    <br>
+<p>
+
 ### [Demo](https://deepbrainai-research.github.io/discohead)
 
 [Geumbyeol Hwang](), [Sunwon Hong](), [Seunghyun Lee](), [Sungwoo Park](), and [Gyeongsu Chae]().
