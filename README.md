@@ -36,10 +36,11 @@ pip install -r requirements.txt
 
 - Download the pre-trained checkpoints from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) and put into `weight` folder.
 - Create the `dataset` folder.
-- Unzip the `dataset.zip` to `dataset`.
-- `DiscoHead` directory should have the following structure.
+- Download `dataset.zip` from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) 
+- Unzip the `dataset.zip` to `dataset`. 
+- `DisCoHead` directory should have the following structure.
 ```
-DiscoHead/
+DisCoHead/
 ├── dataset/
 │   ├── fig2/
 │   ├── fig3/
