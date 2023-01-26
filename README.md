@@ -58,6 +58,11 @@ DisCoHead/
 python test.py --fig_number 2
 ```
 
+## Licenses
+```plain
+To be updated
+```
+    
 ## Contributors
 ### Geumbyeol Hwang, Sunwon Hong, Seunghyun Lee, Sungwoo Park, and Gyeongsu Chae.
     
