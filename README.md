@@ -6,6 +6,9 @@
     <br>
 <p>
 
+<img src='./demo.gif' width=800>
+
+    
 ### [Demo](https://deepbrainai-research.github.io/discohead)
 
 [Geumbyeol Hwang](), [Sunwon Hong](), [Seunghyun Lee](), [Sungwoo Park](), and [Gyeongsu Chae]().
