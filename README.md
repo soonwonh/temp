@@ -1,6 +1,11 @@
 # DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions
 
-<img src='./demo2.gif' width=800>
+<p align="center">
+    <br>
+    <img src='./demo2.gif' width=800>
+    <br>
+<p>
+
 
 <p align="center">
     <br>
