@@ -11,9 +11,12 @@
 
 
 
-<p align="center">
-## [Demo](https://deepbrainai-research.github.io/discohead) | [KoEBA](https://github.com/deepbrainai-research/koeba) 
-<p>
+<h4 align="center">
+    <p>
+        <a href="https://deepbrainai-research.github.io/discohead">Demo</a> | 
+        <a href="https://github.com/deepbrainai-research/koeba"KoEBA</a> 
+    <p>
+</h4>
 
 
 ## Requirements
