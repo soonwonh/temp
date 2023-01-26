@@ -2,7 +2,7 @@
 
 ### [Demo Page](https://deepbrainai-research.github.io/discohead)
 
-## The official PyTorch implementation of DisCoHead
+[Geumbyeol Hwang](), [Sunwon Hong](), [Seunghyun Lee](), [Sungwoo Park](), and [Gyeongsu Chae]().
 
 ## Requirements
 - CUDA 10.2
