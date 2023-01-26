@@ -29,14 +29,14 @@
 ## Installation
 You can install environements by 1. or 2.
 
-1. Copy created conda environment
+1. Copy created conda environment.
 ```
 git clone  https://github.com/deepbrainai-research/discohead
 cd discohead
 conda env create -f discohead.yaml
 conda activate discohead
 ```
-2. Install requirements yourself
+2. Install requirements yourself.
 ```
 git clone  https://github.com/deepbrainai-research/discohead
 cd discohead
@@ -46,12 +46,12 @@ conda install pytorch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0 cudatoolkit
 pip install -r requirements.txt
 ```
 
-## Generating Demo Videos
+## Generating Demo Videos.
 
-- Download the pre-trained checkpoints from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) and put into `weight` folder
+- Download the pre-trained checkpoints from [google drive](https://drive.google.com/drive/folders/1JOWwCVF8v2yNJ_n6a4BsaXuZZFKGo4je?usp=sharing) and put into `weight` folder.
 - Create the `dataset` folder.
-- Unzip the `dataset_demo.zip` to `dataset`
-- `DiscoHead` directory should have the following structure
+- Unzip the `dataset_demo.zip` to `dataset`.
+- `DiscoHead` directory should have the following structure.
 ```
 DiscoHead/
 ├── dataset/
@@ -64,7 +64,7 @@ DiscoHead/
 │   ├── koeba.pt
 ‥‥
 ```
-- The `--fig_number` argument is used for specifying which figure you want to generate
+- The `--fig_number` argument is used for specifying which figure you want to generate.
 - To reproduce fig. 2 of obama dataset, run command :
 ```
 python test.py --fig_number 2
